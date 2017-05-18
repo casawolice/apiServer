@@ -1,0 +1,30 @@
+{
+    "result": "0",
+    "retinfo": "成功",
+    "data": {
+        "loginMobileHidden": "186****1367",
+        "accountList": [
+            {
+                "mobileHidden": "186****1367",
+                "platName": "美的钱包-美信",
+                "nameHidden": "*杰",
+                "isFinance": "0",
+                "grade": "30",
+                "encryptUserId": "7fbff0221ea3a080ae6bc393c5a5a9d8",
+                "major": "0",
+                "loginName": "186822251367"
+            },
+            {
+                "mobileHidden": "186****1367",
+                "platName": "美的钱包",
+                "nameHidden": "*杰",
+                "isFinance": "1",
+                "grade": "20",
+                "encryptUserId": "b00c76e0c3da5ca64712d7a73b681e73",
+                "major": "1",
+                "loginName": "18682251367"
+            }
+        ],
+        "contentToken": "391152F7D020AB9832CA80570EE8555B"
+    }
+}

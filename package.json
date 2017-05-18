@@ -1,0 +1,7 @@
+{
+    "devDependencies": {
+           "glob": "^7.1.1", 
+           "nodemon": "^1.11.0",
+           "express": "^4.15.2"
+    }
+}
