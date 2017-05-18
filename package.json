@@ -1,7 +1,10 @@
 {
+    "scripts": {
+        "api": "nodemon -e json,js -w api api/app.js"
+    },
     "devDependencies": {
-           "glob": "^7.1.1", 
-           "nodemon": "^1.11.0",
-           "express": "^4.15.2"
+        "glob": "^7.1.1",
+        "nodemon": "^1.11.0",
+        "express": "^4.15.2"
     }
 }
